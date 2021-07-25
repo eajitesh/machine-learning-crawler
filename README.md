@@ -1,4 +1,4 @@
-# machine-learning-crawler
+# Python crawlers for learning latest and greatest about maching learning
 
 This project consists of code for getting latest and greatest about machine learning, deep learning and data science from sources such as some of the following:
 * GoogleNews
